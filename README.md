@@ -8,4 +8,5 @@ This is a project I created to gain some experience with GUI programming and SQL
 
 ## Built With
 [Xerial](https://github.com/xerial/sqlite-jdbc) – SQLite JDBC driver
+
 [JavaFX](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm) – GUI
